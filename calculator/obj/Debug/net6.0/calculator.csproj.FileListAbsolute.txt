@@ -1,0 +1,15 @@
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\bin\Debug\net6.0\calculator.exe
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\bin\Debug\net6.0\calculator.deps.json
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\bin\Debug\net6.0\calculator.dll
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\bin\Debug\net6.0\calculator.pdb
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\obj\Debug\net6.0\calculator.csproj.AssemblyReference.cache
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\obj\Debug\net6.0\calculator.dll
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\obj\Debug\net6.0\refint\calculator.dll
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\obj\Debug\net6.0\calculator.pdb
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
+F:\Semester 2\Pemrograman\21.11.4338\calculator\calculator\calculator\obj\Debug\net6.0\ref\calculator.dll
