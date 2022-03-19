@@ -12,11 +12,11 @@ namespace ConsoleApplication2
         {
         // JUDUL //
         first:
-            Console.Title = ("APLIKASI CALKULATOR");
+            Console.Title = ("APLIKASI CALCULATOR");
             Console.WriteLine();
 
             // PEMILIHAN OPERATOR//
-            Console.Write(" PILIH MENU CALKULATOR : ");
+            Console.Write(" PILIH MENU CALCULATOR : ");
             Console.WriteLine();
             Console.WriteLine(" ");
 
